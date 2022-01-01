@@ -11,4 +11,3 @@
 ## Can you help me?
 - Yes, I'm always in a good mood if you want some help you can add me on discord: [**ihl#7777**](https://discord.com/users/428114154981949441)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihl7&layout=compact)](https://github.com/ihl7)
