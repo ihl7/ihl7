@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, my name is ihl! ✨</h1>
 
 <p align="center">
-    <img src="https://cardivo.vercel.app/api?name=ihl&instagram=ihl.dev&github=ihl7&description=I%27m%20Python%20and%20CS%20Programmer&image=https://c4.wallpaperflare.com/wallpaper/783/53/235/miyamoto-musashi-manga-samurai-katana-wallpaper-preview.jpg?fontColor=fffff" alt="adg-banner">
+    <img src="https://cardivo.vercel.app/api?name=ihl&instagram=ihl.dev&github=ihl7&pattern=leaf&colorPattern=%23eaeaea&description=I%27m%20Python%20and%20CS%20Programmer&image=https://c4.wallpaperflare.com/wallpaper/783/53/235/miyamoto-musashi-manga-samurai-katana-wallpaper-preview.jpg" alt="adg-banner">
     <a href='https://discord.com/users/428114154981949441'><img src="https://discord.c99.nl/widget/theme-3/428114154981949441.png" alt="top-langs"></a>
 </p>
 
